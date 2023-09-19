@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://timgulliverhaynes.github.io/naffko54/sitemap.xml
